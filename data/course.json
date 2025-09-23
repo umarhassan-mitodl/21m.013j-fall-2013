@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ]
+  ],
+  "legacy_uid": "0d9fd77d-efa9-ed28-b3ab-2e66b705154e",
+  "instructors": {
+    "content": [
+      "02a78f1b-0745-2652-580f-ee31c1b1ca5b",
+      "765d5e3c-4737-d2ff-24ab-5b208d1fc1aa"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dbb2e85e-9015-a409-58c7-7d3fc3e1ee44",
+    "website": "21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013"
+  },
+  "course_title": "The Supernatural in Music, Literature and Culture",
+  "course_description": "This course explores the relationship between music and the supernatural, focusing on the social history and context of supernatural beliefs as reflected in key literary and musical works from 1600 to the present. It provides an understanding of the place of ambiguity and the role of interpretation in culture, science and art. Great works of art by Shakespeare, Verdi, Goethe (in translation), Gounod, Henry James and Benjamin Britten are explored, as well as readings from the most recent scholarship on magic and the supernatural.\n",
+  "department_numbers": [
+    "21M",
+    "21A",
+    "21L"
+  ],
+  "extra_course_numbers": "21A.113J,21L.013J",
+  "primary_course_number": "21M.013J",
+  "course_image_thumbnail": {
+    "content": "28b6375e-1aa1-cc6e-46e3-919e17e2d4b6",
+    "website": "21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "2b1639d3-137e-481e-ad3b-5142f307de5a",
+  "site_short_id": "21m.013j-fall-2013",
+  "site_url_path": "courses/21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013",
+  "title": "Course Metadata"
+}

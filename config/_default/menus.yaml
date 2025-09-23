@@ -1,0 +1,26 @@
+leftnav:
+- identifier: d4f8b344-0c1d-df53-8f04-bb55f363e920
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 05aed817-0d07-e1fe-010c-2c6b9d0b9460
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: a876b1cb-4653-9898-f4e4-804ec0a8788f
+  name: Readings and Music
+  pageRef: /pages/readings-and-music/
+  weight: 30
+- identifier: da1dd71b-57f6-d2fc-0f40-8649b4b3a09a
+  name: Additional Readings
+  pageRef: /pages/readings-and-music/additional-readings
+  parent: a876b1cb-4653-9898-f4e4-804ec0a8788f
+  weight: 40
+- identifier: a1663d53-5501-0ba3-4a55-840ad5db9360
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 59721e09-b41e-8762-84fb-2a7531f9a341
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 60
