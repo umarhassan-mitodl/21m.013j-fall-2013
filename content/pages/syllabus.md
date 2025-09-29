@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides a course overview and information on prerequisites,
   requirements, assignments, attendance, and grading.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -44,7 +46,7 @@ A total of 20 pages divided into three papers (one with required revision and ex
 
 ### Class Participation
 
-As part of the {{% resource_link "b6d0b089-e9e1-4b65-a8ba-caeaab59d2b7" "CI" %}} requirement of this class, students are required to attend lectures and recitations and to participate actively. At least one hour per week will be devoted to discussion.
+As part of the [CI](http://web.mit.edu/commreq/) requirement of this class, students are required to attend lectures and recitations and to participate actively. At least one hour per week will be devoted to discussion.
 
 ### Oral Presentations
 
