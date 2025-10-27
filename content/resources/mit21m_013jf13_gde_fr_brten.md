@@ -4,8 +4,6 @@ description: ''
 file: /courses/21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013/cf7e53b8ac8114e1c5bd8fe607dc359c_MIT21M_013JF13_Gde_fr_Brten.pdf
 file_size: 609182
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

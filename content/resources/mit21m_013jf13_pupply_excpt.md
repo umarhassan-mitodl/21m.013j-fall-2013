@@ -4,8 +4,6 @@ description: ''
 file: /courses/21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013/281445b25f97d5d2b3b2ebb5abc66222_MIT21M_013JF13_PupPly_excpt.pdf
 file_size: 1111040
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

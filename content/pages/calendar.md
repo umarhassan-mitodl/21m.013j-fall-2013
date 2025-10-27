@@ -96,7 +96,7 @@ _Macbeth_ discussion
 {{< tdopen colspan="3" >}}
 
 
-_Screening:_ [_Throne of Blood_](http://www.imdb.com/title/tt0050613/?ref_=fn_al_tt_1). Directed by Akira Kurosawa. Black & White, 110 min. 1957.
+_Screening:_ {{% resource_link "b1245eb6-05d0-4391-a16a-300b42e0e978" "_Throne of Blood_" %}}. Directed by Akira Kurosawa. Black & White, 110 min. 1957.
 
 
 {{< tdclose >}}
@@ -154,7 +154,7 @@ Essay 1 due
 {{< tdopen colspan="3" >}}
 
 
-_Screening:_ [_Verdi: Macbeth_](http://www.imdb.com/title/tt0093461/?ref_=fn_tt_tt_22). Directed by Claude d'Anna. Color, 133 min. 1997.
+_Screening:_ {{% resource_link "067d543b-7193-4476-8f88-2ca0f596090c" "_Verdi: Macbeth_" %}}. Directed by Claude d'Anna. Color, 133 min. 1997.
 
 
 {{< tdclose >}}
@@ -208,7 +208,7 @@ _Guest: Tara Nummedal_
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Visit to [MIT Libraries Special Collections](http://libraries.mit.edu/collections/)
+Visit to {{% resource_link "43edce1b-3ec2-4502-8e51-92fac74cd343" "MIT Libraries Special Collections" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -231,7 +231,7 @@ Essay 1 revision due
 {{< tdopen colspan="3" >}}
 
 
-_Screening:_ [_Faust_](http://www.imdb.com/title/tt0016847/?ref_=fn_al_tt_7). Directed by F. W. Murnau. Black & White, 85 min. 1926.  
+_Screening:_ {{% resource_link "f34654ae-382c-491a-8b16-8dca442f2f93" "_Faust_" %}}. Directed by F. W. Murnau. Black & White, 85 min. 1926.  
 _Note: This film was screened with live musical accompaniment._
 
 

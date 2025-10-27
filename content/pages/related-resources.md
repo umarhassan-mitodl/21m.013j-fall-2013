@@ -8,10 +8,10 @@ title: Related Resources
 uid: 59721e09-b41e-8762-84fb-2a7531f9a341
 ---
 
-[MIT Lewis Music Library Research Guide](https://libraries.mit.edu/music/), links to library resources, including steaming audio and video.
+{{% resource_link "57d26a76-6a69-4e2a-bdc7-fe329c01b447" "MIT Lewis Music Library Research Guide" %}}, links to library resources, including steaming audio and video.
 
-[Oxford Music Online](http://www.oxfordmusiconline.com/page/subscribe), links to Grove Music Online, the Oxford Dictionary of Music, the Oxford Companion to Music, and the Encyclopedia of Popular Music.
+{{% resource_link "fe76eb64-a75b-42cb-917e-5bdeb1b31eef" "Oxford Music Online" %}}, links to Grove Music Online, the Oxford Dictionary of Music, the Oxford Companion to Music, and the Encyclopedia of Popular Music.
 
-[MLA Formatting and Style Guide](https://owl.english.purdue.edu/owl/resource/747/01/), a resource for basic citation format.
+{{% resource_link "e08987ee-7d2f-42eb-bc01-5cf28ef83127" "MLA Formatting and Style Guide" %}}, a resource for basic citation format.
 
-[Oxford English Dictionary](http://www.oed.com/), a link to our preferred reference dictionary.
+{{% resource_link "0d69eac4-13e7-4581-86c1-9e2decfa79b4" "Oxford English Dictionary" %}}, a link to our preferred reference dictionary.
